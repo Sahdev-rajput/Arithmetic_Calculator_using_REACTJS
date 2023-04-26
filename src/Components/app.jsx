@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import Display from "./display";
 import Button from "./value";
 import data from "./btn.js";
+import Footer from "./Footer";
 
 function App() {
   const [temp, settemp] = useState(true);
@@ -165,6 +166,7 @@ function App() {
           })}
         </div>
       </div>
+<Footer/>
     </div>
   );
 }
