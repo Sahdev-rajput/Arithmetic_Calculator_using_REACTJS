@@ -1,5 +1,5 @@
 # Arithmetic_Calculator_using_REACT_JS
-About the Project: 
+#About the Project: 
 This project includes a Arithmetic Calculator which can perform basic arithmetic operations (Addition, Subtraction,Divison and Multiplication). The most important feature is that it can also do manipulations over the decimal numbers, though the results may be approximate.
 
 
@@ -12,7 +12,7 @@ This project includes a Arithmetic Calculator which can perform basic arithmetic
 
 
 
-SKills Used:
+#SKills Used:
 >Handling the React State using React HOOKS,
 >Inline Styling of React Elements,
 >Handling the React components,
@@ -30,7 +30,7 @@ SKills Used:
 
 
 
-Designed and Developed Solely by Sahdev Rajput Using CodeSandBox
+#Designed and Developed Solely by Sahdev Rajput Using CodeSandBox
 
 
              *****Visit the following link to see the Website: https://qs02gb.csb.app/ ****
