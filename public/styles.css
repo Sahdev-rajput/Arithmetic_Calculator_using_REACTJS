@@ -1,0 +1,36 @@
+body {
+  background-color: #e4e9fd;
+  background-image: -webkit-linear-gradient(65deg, #00ffcc 50%, #666699 50%);
+  min-height: 1000px;
+}
+h1 {
+  color: white;
+  float: right;
+}
+body {
+  text-align: center;
+}
+.display {
+  width: 320px;
+  height: 150px;
+  background-color: Black;
+  position: relative;
+  margin: auto;
+  margin-bottom: -2px;
+  margin-top: 20%;
+  border-radius: 2%;
+}
+.btn {
+  width: 320px;
+  height: 360px;
+  margin: auto;
+  border-radius: 2%;
+  align-items: center;
+}
+.btn1 {
+  height: 80px;
+  width: 80px;
+}
+.btn1 :hover {
+  background-color: #50394c;
+}
