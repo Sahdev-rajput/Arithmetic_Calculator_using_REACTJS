@@ -166,7 +166,8 @@ function App() {
           })}
         </div>
       </div>
-<Footer/>
+      <div style={{ marginTop: "20%" }}>
+<Footer/></div>
     </div>
   );
 }
